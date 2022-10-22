@@ -1,4 +1,4 @@
 Hello, Hexlet!
 experiment with amend
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
